@@ -32,6 +32,9 @@ The cli is built on node.js, so you need to have node.js and npm available befor
        | |  |  __/| | | || |_ 
        \_/   \___||_| |_| \__|
 
+    $ filterout
+    $ posts
+
 # Comments/Questions
 Direct to https://openmason.tent.is
 
