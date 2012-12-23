@@ -1,0 +1,2 @@
+- allow posts within the cli
+- add followers

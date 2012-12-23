@@ -1,0 +1,23 @@
+# tent config settings
+application:
+  name: Tent
+  banner:
+    color: yellow
+  init:
+    - filterout="filter id entity content"
+    - profile="get profile"
+    - following="get followings"
+    - followers="get followers"
+    - posts="get posts"
+    - groups="get groups"
+
+# http rest module confiuration
+rest:
+  # edit this line to set it to your profile
+  url: https://openmason.tent.is/tent
+  prompt:
+  outputFormat: yaml
+  limitItems: 7
+  headers:
+    Accept: application/vnd.tent.v0+json
+    Content-Type: application/vnd.tent.v0+json
