@@ -33,5 +33,5 @@ The cli is built on node.js, so you need to have node.js and npm available befor
        \_/   \___||_| |_| \__|
 
 # Comments/Questions
-Direct to openmason.tent.is
+Direct to https://openmason.tent.is
 
