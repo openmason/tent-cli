@@ -25,14 +25,12 @@ The cli is built on node.js, so you need to have node.js and npm available befor
 
     $ nosh
     # you should see something like
- _____               _   
-|_   _|             | |  
-  | |    ___  _ __  | |_ 
-  | |   / _ \| '_ \ | __|
-  | |  |  __/| | | || |_ 
-  \_/   \___||_| |_| \__|
-                                                                                             
-    
+      _____               _   
+     |_   _|             | |  
+       | |    ___  _ __  | |_ 
+       | |   / _ \| '_ \ | __|
+       | |  |  __/| | | || |_ 
+       \_/   \___||_| |_| \__|
 
 # Comments/Questions
 Direct to openmason.tent.is
